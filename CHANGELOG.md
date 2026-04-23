@@ -43,7 +43,7 @@
 
 ### 6.0.4 (2022-03-08)
 
-- "To people of Russia": There is a war in Ukraine right now. The forces of the Russian Federation are attacking civilians.
+- Nothing
 
 ### 6.0.3 (2022-01-30)
 
